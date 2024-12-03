@@ -1,0 +1,83 @@
+2024-12-02 13:11:31 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:11:35 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:11:36 [EXCEPTION] Test-MethodTask The variable '$SqlQuery' cannot be retrieved because it has not been set.
+2024-12-02 13:11:36 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:13:20 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:13:22 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:13:52 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:15:06 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:15:09 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:15:27 [EXCEPTION] Test-MethodTask Exception calling "ExecuteReader" with "0" argument(s): "ORA-00936: falta una expresión
+https://docs.oracle.com/error-help/db/ora-00936/"
+2024-12-02 13:15:33 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:15:59 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:17:36 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:17:36 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:17:36 [EXCEPTION] Test-MethodTask Exception calling "ExecuteReader" with "0" argument(s): "ORA-00936: falta una expresión
+https://docs.oracle.com/error-help/db/ora-00936/"
+2024-12-02 13:17:36 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:17:36 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:17:36 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:17:36 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 1
+2024-12-02 13:17:36 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:18:05 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:19:14 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:19:22 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:19:36 [EXCEPTION] Test-MethodTask Exception calling "ExecuteReader" with "0" argument(s): "ORA-00933: comando SQL no terminado correctamente
+https://docs.oracle.com/error-help/db/ora-00933/"
+2024-12-02 13:19:36 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:19:36 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:19:36 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:19:36 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 1
+2024-12-02 13:19:36 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:19:50 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:19:55 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:23:49 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:24:11 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:24:11 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:24:54 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:28:03 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:28:03 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:28:59 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:29:03 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:29:03 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:29:33 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 
+2024-12-02 13:29:33 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:29:33 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:29:33 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:29:33 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 1
+2024-12-02 13:29:33 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:33:21 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:33:21 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:35:24 [EXCEPTION] GetLatestRecords The variable '$Result' cannot be retrieved because it has not been set.
+2024-12-02 13:35:24 [INFORMATION] GetLatestRecords Oracle connection closed.
+2024-12-02 13:39:01 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:39:01 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:39:38 [INFORMATION] GetLatestRecords Oracle connection closed.
+2024-12-02 13:40:49 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:40:49 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:43:33 [INFORMATION] GetLatestRecords SQL script executed successfully. Result: 
+2024-12-02 13:43:33 [INFORMATION] GetLatestRecords Oracle connection closed.
+2024-12-02 13:43:33 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:43:33 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:43:33 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 1
+2024-12-02 13:43:33 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:43:53 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:43:53 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:44:37 [INFORMATION] GetLatestRecords SQL script executed successfully. Result: 
+2024-12-02 13:44:41 [INFORMATION] GetLatestRecords Oracle connection closed.
+2024-12-02 13:44:41 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:44:41 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:44:41 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 1
+2024-12-02 13:44:41 [INFORMATION] Test-MethodTask Oracle connection closed.
+2024-12-02 13:46:21 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:46:21 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:46:32 [INFORMATION] GetLatestRecords SQL script executed successfully. Result: 
+2024-12-02 13:46:57 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:46:57 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:47:32 [INFORMATION] GetLatestRecords SQL script executed successfully. Result: 
+2024-12-02 13:47:40 [INFORMATION] GetLatestRecords Oracle connection closed.
+2024-12-02 13:47:40 [INFORMATION] LoadConfigFileToCache Archivo de configuración cargado en memoria.
+2024-12-02 13:47:40 [INFORMATION] LoadAssembly El ensamblado se cargó correctamente desde: D:\workspace\dev\PowershellModules\claro.co.pol.task\shared\Oracle.ManagedDataAccess.dll
+2024-12-02 13:47:40 [INFORMATION] Test-MethodTask SQL script executed successfully. Result: 1
+2024-12-02 13:47:40 [INFORMATION] Test-MethodTask Oracle connection closed.
