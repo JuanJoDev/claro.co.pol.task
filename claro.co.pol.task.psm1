@@ -15,4 +15,5 @@ $PSModuleRoot = $PSModule.ModuleBase
 
 
 Export-ModuleMember -Function 'Invoke-MethodTask'
-Export-ModuleMember -Function 'Get-LoadAssemblies'
+Export-ModuleMember -Function 'Get-LoadAssemblies' 
+Export-ModuleMember -Function 'Invoke-TaskSqlPlus'

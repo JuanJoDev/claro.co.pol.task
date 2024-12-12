@@ -21,6 +21,7 @@ function RemoveLock {
     try {    
         if (Test-Path $LockFile) {
             Remove-Item -Path $LockFile
+            WriteLog -Level "INFORMATION" -Tittle "RemoveLock" -Message "Se eliminó el archivo temporal: $LockFile"
         }         
     }
     catch {

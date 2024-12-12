@@ -39,6 +39,10 @@ function LoadConfigFileToCache {
             Validators       = @{
                 checkDirectoryStructure = ($xmlConfig.config.Validator.add | Where-Object { $_.key -eq "checkDirectoryStructure" } | Select-Object -ExpandProperty value) -as [bool]
             }
+            Database         = @{
+                User       = $xmlConfig.config.Database.add | Where-Object { $_.key -eq "User" } | Select-Object -ExpandProperty value
+                DataSource = $xmlConfig.config.Database.add | Where-Object { $_.key -eq "DataSource" } | Select-Object -ExpandProperty value
+            }
         }
 
         foreach ($folder in $xmlConfig.config.DirectoryTree.folder.add) {
